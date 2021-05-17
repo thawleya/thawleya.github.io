@@ -1,0 +1,18 @@
+table {
+    border: 1px;
+    border-style: solid;
+}
+
+tr:nth-child(even) {
+    background-color: silver;
+}
+
+th {
+    background-color: black;
+    color: white;
+    
+}
+
+.sortable {
+    cursor: pointer;
+}
